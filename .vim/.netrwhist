@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/calebgeene/Desktop/mstr-send-token'
+let g:netrw_dirhist_2='/Users/calebgeene/Desktop/mstr-send-token/public'
+let g:netrw_dirhist_3='/Users/calebgeene/Desktop/mstr-send-token/public/javascripts'
+let g:netrw_dirhist_4='/Users/calebgeene/filebrowser-korora'
+let g:netrw_dirhist_5='/Users/calebgeene/filebrowser-korora/www'
+let g:netrw_dirhist_6='/Users/calebgeene/filebrowser-korora/www/lib'
