@@ -1,0 +1,9 @@
+{
+    "window.zoomLevel": 0,
+    "window.openFilesInNewWindow": "on",
+    "window.openFoldersInNewWindow": "on",
+    "window.openWithoutArgumentsInNewWindow": "on",
+    "explorer.confirmDelete": false,
+    "workbench.editor.enablePreview": false,
+    "editor.minimap.enabled": false
+}
